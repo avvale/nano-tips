@@ -1,7 +1,3 @@
----
-title: Nano tips
----
-
 # Nano 
 Atajos de teclado para el Nano Editor
 
