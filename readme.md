@@ -1,5 +1,5 @@
 # Nano 
-Atajos de teclado para el Nano Editor
+Atajos de teclado para Nano Editor
 
 |Comando    |   Definición                                                              |
 |-----------|---------------------------------------------------------------------------|
